@@ -13,5 +13,5 @@ This repository serves as my personal learning space where I:
 
 It’s a hands-on journal of my journey in web development.
 
-## 📁 Folder Structure
+
 
